@@ -1,0 +1,6 @@
+https://acdisc.gesdisc.eosdis.nasa.gov/data//Aqua_AIRS_Level3/AIRS3SP8.006/2014/AIRS.2014.08.17.L3.RetSup_IR008.v6.0.11.0.G14258121123.hdf
+https://acdisc.gesdisc.eosdis.nasa.gov/data//Aqua_AIRS_Level3/AIRS3SP8.006/2014/AIRS.2014.08.09.L3.RetSup_IR008.v6.0.11.0.G14258121453.hdf
+https://acdisc.gesdisc.eosdis.nasa.gov/data//Aqua_AIRS_Level3/AIRS3SP8.006/2014/AIRS.2014.08.01.L3.RetSup_IR008.v6.0.11.0.G14258121231.hdf
+https://acdisc.gesdisc.eosdis.nasa.gov/data//Aqua_AIRS_Level3/AIRS3SP8.006/2014/AIRS.2014.07.24.L3.RetSup_IR008.v6.0.11.0.G14258121317.hdf
+https://acdisc.gesdisc.eosdis.nasa.gov/data//Aqua_AIRS_Level3/AIRS3SP8.006/2014/AIRS.2014.07.16.L3.RetSup_IR008.v6.0.11.0.G14258121042.hdf
+https://acdisc.gesdisc.eosdis.nasa.gov/data//Aqua_AIRS_Level3/AIRS3SP8.006/2014/AIRS.2014.07.08.L3.RetSup_IR008.v6.0.31.0.G16349185850.hdf
